@@ -1,5 +1,7 @@
 # ![](http://i.imgur.com/DZwTm1u.png)
 
+## Fork for billymicmac.com, so that it can work well with out other plugins
+
 DiscordSRV-Staff-Chat is a staff chat plugin that connects to a Discord channel (via [DiscordSRV](https://github.com/Scarsz/DiscordSRV)), allowing in-game staff to communicate with staff on Discord.
 
 ![](http://i.imgur.com/363hVvE.gif) 
